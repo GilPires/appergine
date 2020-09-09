@@ -1,0 +1,15 @@
+{
+  "name": "appergine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^1.4.0"
+  }
+}
